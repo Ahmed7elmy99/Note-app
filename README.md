@@ -1,18 +1,12 @@
 # Note App
 
-A new Flutter project.
+## Features
 
-## Getting Started
-
-Note app 
- - Tools used in the application {Flutter , Php , MySql } 
- - Features in the application 
    
 Onboarding , signup , login ,
  , home .
  -can create , edit, delete notes
- -can add images from gallary or camera to notes
-. 
+ -can add images from gallary or camera to notes 
  - Handling data view and errors 
  - Animation 
 #Fluttet
